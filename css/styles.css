@@ -1,0 +1,90 @@
+body {
+    font-family: "Segoe UI", Roboto, sans-serif;
+    background-color: #E0E0E0;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+a {
+    color: #B3E5FC;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {  
+    background: #039BE5;
+    color: #FFFFFF;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+
+.main-menu-ul {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.events-section {
+    background: linear-gradient(120deg, #4FC3F7, #0277BD);
+    color: #FFFFFF;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+section {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+section img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    
+}
+
+section h2 {
+    margin-top: 0;
+    color: #039BE5;
+}
+
+.section-h2-events {
+    font;
+    margin-top: 0;
+    color: #FFFFFF;
+}
+
+footer {
+    background: #039BE5;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 24px;
+    margin: 0;
+    border-radius: 12px;
+    font-size: 0.9rem;
+}
+
+.div-events-list {
+    font-size: 20px;
+}
