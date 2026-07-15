@@ -37,7 +37,6 @@ footer {
 h1 {
     padding: 10px 15px;
     font-size: var(--fs-h1);
-    ;
 }
 
 h2 {
@@ -101,7 +100,3 @@ section img {
     margin: 10px 0;
     border-radius: 12px;
 }
-
-
-
-
